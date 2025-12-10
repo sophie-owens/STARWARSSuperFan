@@ -1,4 +1,4 @@
-# STARWARSSuperfan
+# STARWARSSuperFan
 This project is my first full front-end website, built using **HTML**, **CSS**, and **vanilla JavaScript**. It demonstrates what I learned about DOM manipulation, responsive design, and iterative development.
 
 ## Features
